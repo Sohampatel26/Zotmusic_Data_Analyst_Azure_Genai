@@ -4,8 +4,8 @@ from openai import AzureOpenAI
 # -----------------------------
 # 🔑 Azure OpenAI Configuration
 # -----------------------------
-AZURE_ENDPOINT = "https://tablesummarizer-genai-resource.cognitiveservices.azure.com/"
-API_KEY = "AIV8LBqyZLw8MkdeGDI0v8FqwvaGtNX2FkJbqMjxVl3lWPosmhy1JQQJ99BKACHYHv6XJ3w3AAAAACOGnXAJ"
+AZURE_ENDPOINT = "Your Azure Endpoint"
+API_KEY = "Your API Key"
 DEPLOYMENT_NAME = "gpt-4o"
 API_VERSION = "2025-01-01-preview"
 
