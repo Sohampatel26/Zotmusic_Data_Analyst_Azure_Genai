@@ -1,8 +1,5 @@
-Absolutely 👍 — here’s your **entire README.md** in **one complete Markdown code block**, formatted cleanly and ready to paste directly into GitHub as-is:
 
----
 
-````markdown
 # 🎧 Music Data Analyst Agent — Azure OpenAI + Streamlit
 
 ## 🧠 Overview
