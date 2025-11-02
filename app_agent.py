@@ -7,8 +7,8 @@ import time
 # ---------------------------------
 # ⚙️ Azure Agent Configuration
 # ---------------------------------
-AZURE_ENDPOINT = "https://tablesummarizer-genai-resource.services.ai.azure.com/api/projects/tablesummarizer_genai"
-AGENT_ID = "asst_5Ph42af2PPvZ6kuhFiuyj0uW"
+AZURE_ENDPOINT = "Your endpoint"
+AGENT_ID = "your agent ID"
 
 # Initialize the Azure Project client
 project = AIProjectClient(
